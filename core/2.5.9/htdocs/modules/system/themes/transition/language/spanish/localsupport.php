@@ -3,16 +3,16 @@
 
 $menu = array();
 
-// sample for English  support
-/*
+// Spanish  support/*
+
 $menu[] = array(
-    'link'      => 'http://www.xoops.org',
-    'title'     => 'XOOPS',
+    'link'      => 'http://www.esxoops.com',
+    'title'     => 'ESXOOPS',
     'absolute'  => 1,
     'icon'      => XOOPS_ADMINTHEME_URL . '/default/images/xoops.png'
 );
-
-$menu[] = array(
+//
+/*$menu[] = array(
     'link'      => 'http://www.xoops.org',
     'title'     => 'XOOPS',
     'absolute'  => 1,
