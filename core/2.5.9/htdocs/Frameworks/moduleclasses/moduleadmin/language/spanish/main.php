@@ -24,7 +24,7 @@ define('_AM_MODULEADMIN_CONFIG_XOOPS', 'XOOPS mínimo requerido: %s (su versión
 define('_AM_MODULEADMIN_CONFIG_DB', 'Versión mínima requerida: %s (su versión es %s)');
 define('_AM_MODULEADMIN_CONFIG_ADMIN', 'ModuleAdmin mínimo requerido: %s (su versión es %s)');
 // About
-define('_AM_MODULEADMIN_ABOUT_CHANGELOG', 'Cambio de registro');
+define('_AM_MODULEADMIN_ABOUT_CHANGELOG', 'Registro de Cambios');
 define('_AM_MODULEADMIN_ABOUT_AMOUNT', 'Cantidad');
 define('_AM_MODULEADMIN_ABOUT_AMOUNT_TTL', 'Ingrese el monto en USD, p. $ 25.00');
 define('_AM_MODULEADMIN_ABOUT_AMOUNT_CURRENCY', 'USD');
